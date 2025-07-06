@@ -36,6 +36,7 @@ I'm a Full-Stack Developer passionate about building web applications using tech
 ### 📫 Let's Connect
 
 - 🌍 [www.hakantek.com](http://www.hakantek.com)
+- 🌍 [hakanttek.github.io](https://hakanttek.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hakanttek/)
 - 🧑‍💻 [GitHub](https://github.com/hakanttek)
 - 📧 hakanttek@gmail.com
