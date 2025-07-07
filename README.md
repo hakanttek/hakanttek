@@ -27,7 +27,7 @@ I'm a Full-Stack Developer passionate about building web applications using tech
 - AI agents and intelligent automation
 - Enterprise systems (ERP, CRM, PLM)
 - Microservices architecture and cloud-native apps
-- Clean and scalable software architecture
+- Clean architecture
 - Operations research and optimization models
 - System simulations and digital twin technologies
 
